@@ -1,26 +1,38 @@
 # Hello GitHub
 
-<img width="150" align="left" alt="image" src="https://user-images.githubusercontent.com/155492/219313640-1328aefb-7695-41d2-bbef-5c5ffe6ab079.png">
+ 
 
-### Exercise 1 : Create a personal markdown file
+<img width="100" align="left" alt="image" src="https://user-images.githubusercontent.com/155492/219313640-1328aefb-7695-41d2-bbef-5c5ffe6ab079.png">
+
+# Exercise 1
+
+### Create a personal markdown file
 
 Use the online editor on GitHub _(Code >> Add file >> Create new file)_ to create e new file in the _root_ of the repository. Make the file personal simply by naming it after your GitHub handle with an `.md`  _file extension_. My handle on GitHub is [@lakruzz](https://github.com/lakruzz) so my file will be `lakruzz.md`.
 
 Add two lines to the file:
 
+1. First line is your name (First + Last) preceded with a hash (`#`) and separated with a space.
+1. Second line is your GitHub handle preceded with two hashes (`##`) and also separated with a space.
+
+<details><summary>My file <code>lakruzz.md</code> would look like this:</summary>
+  
+---  
 ```markdown
 # Lars Kruse
 ## lakruzz
 ```
-
-First line is your name (First + Last) preceded with a hash (#) and separated with a space.
-Second line is your GitHub handle preceded with two hashes (##) and also separated with a space.
+---
+</details>
 
 Commit the file!
 
-<img width="150" align="left" alt="image" src="https://user-images.githubusercontent.com/155492/219313640-1328aefb-7695-41d2-bbef-5c5ffe6ab079.png">
 
-### Exercise 2 : Create a new issue with your name on it - assign it to yourself
+<img width="100" align="left" alt="image" src="https://user-images.githubusercontent.com/155492/219313640-1328aefb-7695-41d2-bbef-5c5ffe6ab079.png">
+
+# Exercise 2
+
+### Create a new issue with your name on it - assign it to yourself
 
 Copy the code snippet below to your clip board</b></summary>
 
@@ -54,7 +66,7 @@ Also make sure:
 
 ```
 
-With the Code snippet above is in your clip board create a new issue in this repository
+With the Code snippet above in your clip board go and create a new issue in this repository
 
 - `Title`: **"&lt;Your name&gt;'s file"**
 - `Content`: Dump the content of the clipboard (the code above)
