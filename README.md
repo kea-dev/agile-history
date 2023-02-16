@@ -1,5 +1,4 @@
-# Agile history
-
+# Hello GitHub
 
 <img width="150" align="left" alt="image" src="https://user-images.githubusercontent.com/155492/219313640-1328aefb-7695-41d2-bbef-5c5ffe6ab079.png">
 
@@ -46,8 +45,8 @@ Go back into your file `<handle>.md` and add some `MarkDown`. It shall include:
 - [ ] A bulleted list of things you are currently working on.
 - [ ] A prioritized list of Programming languages and technologies you wanna work with.
 - [ ] A link to all your public repositories on GitHub.
-- [ ] Your GMail (if you have more, than just the one you'd like to use for sharing documents).
-- [ ] A short description of what you dream of working with - two years from now - when you graduate and enter the labour market as a full-fledged, full-time software developer.
+- [ ] Your GMail (assuming you have one).
+- [ ] A short description of what you dream of working with - a couple of years from now - when you graduate and enter the labour market as a full-fledged, full-time IT Architect.
 
 Also make sure:
 
@@ -57,14 +56,14 @@ Also make sure:
 
 ```
 
-With theCode snippet above in your clip board create a new issue in this repository
+With the Code snippet above is in your clip board create a new issue in this repository
 
-    - Title: **"&lt;Your name&gt;'s file"**
-    - Content: Dump the content of the clipboard (the code below)
-    - Assign: Assign the issue to yourself.
-    - Submit: Save the issue
+- `Title`: **"&lt;Your name&gt;'s file"**
+- `Content`: Dump the content of the clipboard (the code above)
+- `Assign`: Assign the issue to yourself.
+- `Submit`: Save the issue
 
-TEST by wisiting [github.com/issues](https://github.com/issues) - do you see your new issue? If not _did you assign it to yourself?_
+TEST by visiting  [github.com/issues/assigned](https://github.com/issues/assigned) - do you see your new issue? If not: _did you assign it to yourself?_
 
 
 
