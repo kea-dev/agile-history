@@ -25,7 +25,7 @@ Add two lines to the file:
 ---
 </details>
 
-Commit the file!
+Add and Commit the file!
 
 
 <img width="100" align="left" alt="image" src="https://user-images.githubusercontent.com/155492/219313640-1328aefb-7695-41d2-bbef-5c5ffe6ab079.png">
