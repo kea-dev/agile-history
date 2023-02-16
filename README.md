@@ -4,9 +4,7 @@
 
 ### Exercise 1 : Create a personal markdown file
 
-Use the online editor on GitHub _(Code >> Add file >> Create new file)_ to create e new file in the _root_ of the repository. Make the file personal simply by naming it after your GitHub handle with an `.md`  _file extension_.
-
-Your handle is you login name. My handle on GitHub is [@lakruzz](https://github.com/lakruzz) so my file will be `lakruzz.md`.
+Use the online editor on GitHub _(Code >> Add file >> Create new file)_ to create e new file in the _root_ of the repository. Make the file personal simply by naming it after your GitHub handle with an `.md`  _file extension_. My handle on GitHub is [@lakruzz](https://github.com/lakruzz) so my file will be `lakruzz.md`.
 
 Add two lines to the file:
 
