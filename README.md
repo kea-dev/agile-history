@@ -63,6 +63,7 @@ Also make sure:
 - [ ] Assign this issue to yourself
 - [ ] Commit the file when you are done
 - [ ] As you progress with the items on the list - come back to this issue and check out the items.
+- [ ] When you are completely done (_done done_) - close the issue.
 
 ```
 
