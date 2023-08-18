@@ -92,3 +92,6 @@ _All_ the time you spend on practicing and learning MarkDown is _never_ wasted. 
 
 ---
 ```
+
+## Apparently there's more?
+Browse to the file `advanced.md` in this repo and continue there
