@@ -91,7 +91,7 @@ All you need to learn about (GitHub flavoured) MarkDown is hinted to you in the 
 _All_ the time you spend on practicing and learning MarkDown is _never_ wasted. You will be using it for the rest of your career as a developer!
 
 ---
-```
+</details>
 
-## Apparently there's more?
+## Apparently there's more!
 Browse to the file `advanced.md` in this repo and continue there
