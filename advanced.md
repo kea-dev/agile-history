@@ -23,3 +23,21 @@ Have a look at [this GitHub Doc](https://docs.github.com/en/account-and-profile/
 👉 Did you see the foot note above! 
 
 👉 Noticed how links in `.md` files on GitHub _always_ opens in the same (current) tab - The GitHub Flavored MarkDown syntax doesn't support to spec a link to be opened in a new window or tab (KramDown does!). But no problem! Hold down `<CTRL>` on Windows or `<CMD>` on Mac while you click the link, and it opens in a new tab.
+
+<img width="100" align="left" alt="image" src="https://user-images.githubusercontent.com/155492/219313640-1328aefb-7695-41d2-bbef-5c5ffe6ab079.png">
+
+# Exercise? 4 - Did You know?
+
+### One standard to rule them all ...and in darkness bind them!
+
+MarkDown is supported in all GitHub documentation:
+
+- `.md` files
+- Issue descriptions and comments
+- Discussions
+- Annotated reviews
+- Wiki pages
+- GitHub pages (static web sites)
+
+Both Chat GPT and Bing Chat supports generating output in MarkDown.
+- Ask Chat GPT _anything_ and append _"... and by the way, please type the output in MarkDown"_ to your prompt. Then copy the output from the caht into a new `.md` file her in this repo. It appears that anything you get from prompt engineering can  be pasted directly into your GitHub documentation, discussions or chats.
