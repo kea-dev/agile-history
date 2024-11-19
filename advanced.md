@@ -40,4 +40,4 @@ MarkDown is supported in all GitHub documentation:
 - GitHub pages (static web sites)
 
 Both Chat GPT and Bing Chat supports generating output in MarkDown.
-- Ask Chat GPT _anything_ and append _"... and by the way, please type the output in MarkDown"_ to your prompt. Then copy the output from the caht into a new `.md` file her in this repo. It appears that anything you get from prompt engineering can  be pasted directly into your GitHub documentation, discussions or chats.
+- Ask Chat GPT _anything_ and append _"... and by the way, please type the output in MarkDown"_ to your prompt. Then copy the output from the chat into a new `.md` file her in this repo. It appears that anything you get from prompt engineering can be pasted directly into your GitHub documentation, discussions or chats.
