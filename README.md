@@ -76,7 +76,7 @@ With the Code snippet above in your clip board go and create a new issue in this
 
 TEST by visiting  [github.com/issues/assigned](https://github.com/issues/assigned) - do you see your new issue? If not: _did you assign it to yourself?_
 
-
+Now finish the TODO list in the issue.
 
 <details><summary>Spoiler!</summary>
 
